@@ -15,7 +15,6 @@
   <a href="https://saiteja.page.gd"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:saitejagadu21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="tel:+917032635333"><img src="https://img.shields.io/badge/Phone-+91%207032635333-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact" /></a>
 </p>
 
 </div>
